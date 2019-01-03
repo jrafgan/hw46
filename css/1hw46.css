@@ -13,8 +13,8 @@
 }
 .block_2,
 .block_3 {
-    grid-row: 100px 100px;
-    grid-column: 50%;
+    grid-template-rows: 100px 100px;
+    grid-template-columns: 50%;
     padding: 20px;
 }
 li,
